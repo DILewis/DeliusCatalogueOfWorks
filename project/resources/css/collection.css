@@ -1,0 +1,113 @@
+/* Collection-specific colors */
+body {
+    background-color: #445566;
+}
+
+/* Header and footer */
+body {
+    background-color: #083110;
+    background-color: #002147;
+    color: black;
+}
+#header {
+    border-bottom: none;
+}
+#ox-logo-banner{
+  height: 58px;
+  margin: -12px 0 0 -12px;
+  border: 1px solid white;
+}
+#ox-logo-footer {
+  height: 50px;
+  margin: 0px 5px;
+  border: 1px solid white;
+}
+#footer .logo, #header .logo {
+  text-decoration: none;
+}
+/* Top menu */
+#menu a:hover, #menu .selected {
+/*    background-color: #778899;*/
+/*    background-color: #c2cfb0; */
+    background-color: #bcd2c3;
+    color: #000;
+}
+#skiptocontent a {
+  position: absolute;
+  top: -80px;
+  color: white;
+}
+label span span.genre_indicator, div.genre_filter_row input.radio{
+   visibility: hidden;
+}
+.genre_filter .genre_filter_row .level1{
+    font-size:110%;
+}
+/* navigation.xq list body */
+.results .result_table{
+    background-color: #bcd2c3;
+    border-color: #002147;
+}
+.results .result_table .list_id {
+    background-color: #002147;
+    padding: 5px;
+    width: 15%;
+}
+.results .result_table:hover .list_id {
+    background-color: #44687d;
+}
+.result_table .list_id.cat_id {
+    font-size: 110%;
+}
+.results .result_table .title {
+    color: #000;
+}
+.results .result_table .genre_list {
+    float: right;
+    color: #000;
+    font-size: 9pt;
+}
+.results .result_row .date {
+    float: left;
+    padding: 0;
+}
+/* Sidebar */
+.files_list div.filter {
+    background-color: #bcd2c3;
+}
+.paging_div .paging{
+    background-color: #e8e8e8;
+    color: #0c5518;
+}
+p.MsoNoSpacing, p.MsoNormal, ul.staticText {
+    text-align: justify;
+    margin: 0 6px 12px 18px;
+    font-size: 105%;
+}
+
+p.MsoNoSpacing.address {
+    margin-left: 108px;
+    text-indent: -90px;
+}
+#main .Section1 ul li a {
+    text-decoration: none;
+    font-weight: 600;
+    color: #002147;
+}
+#main .Section1 ul li a:hover {
+    text-decoration: underline;
+}
+.anthology_filter::before {
+    content: "☐";
+    font-size: 160%;
+    padding-right: 8px;
+}
+.anthology_filter.checked::before {
+    content: "☑";
+    font-size: 160%;
+    padding-right: 8px;
+}
+.anthology_filter.checked {
+    font-weight: bold;
+}
+

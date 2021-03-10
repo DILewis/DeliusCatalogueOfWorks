@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classification xmlns="http://www.music-encoding.org/ns/mei">
+    <termList label="level1">
+        <term>Stage music</term>
+    </termList>
+    <termList label="level2">
+        <term displayName="Opera">Opera</term>
+        <term displayName="Incidental music">Incidental music</term>
+    </termList>
+    <termList label="level1">
+        <term>Instrumental music</term>
+    </termList>
+    <termList label="level2">
+        <term displayName="Concerto">Concerto</term>
+        <term displayName="Orchestral music">Orchestral music</term>
+        <term displayName="Chamber music">Chamber music</term>
+        <term displayName="Keyboard music">Keyboard music</term>
+    </termList>
+    <termList label="level1">
+        <term>Vocal music</term>
+    </termList>
+    <termList label="level2">
+        <term displayName="Solo voice and orchestra">Solo voice and orchestra</term>
+        <term displayName="Voices and orchestra">Voices and orchestra</term>
+        <term displayName="Unaccompanied voices">Unaccompanied voices</term>
+        <term displayName="Song">Song</term>
+    </termList>
+    <termList label="keywords">
+        <term>Trio</term>
+        <term>Quartet</term>
+        <term>Quintet</term>
+        <term>Sextet</term>
+        <term>Septet</term>
+        <term>Octet</term>
+        <term>String trio</term>
+        <term>String quartet</term>
+        <term>String quintet</term>
+        <term>Piano trio</term>
+        <term>Piano quartet</term>
+        <term>Piano quintet</term>
+        <term>Wind quartet</term>
+        <term>Wind quintet</term>
+        <term>Oratorio</term>
+        <term>Mass</term>
+        <term>Cantata</term>
+        <term>Motet</term>
+        <term>Lied</term>
+    </termList>
+</classification>

@@ -1,0 +1,41 @@
+div.front_page_header {
+    height: 50px;
+    margin: 0px -10px 10px -10px;
+    padding: 5px;
+}
+
+div.front_page_header a {
+    text-decoration: none;
+}
+
+div.main {
+    background-color: #eee;
+    padding: 0 10px 10px 10px;
+    border: 1px solid #999;
+}
+
+div.footer, p.footer {
+    margin: 0 -20px 20px -20px;
+    padding: 10px 20px;
+}
+
+
+.footer, .footer a:link, .footer a:visited, .footer a:active {
+    color: #888;
+}
+
+table {
+    padding:0px;
+}
+
+td {
+    border: 0px;
+}
+
+p {
+    margin-top: 10px;
+}
+
+body {
+    background-color: #fff;
+}

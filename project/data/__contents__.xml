@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/data-delius" version="1" owner="admin" group="dba" mode="755" created="2018-09-16T14:05:13.587+01:00">
+   <acl entries="0" version="1"/>
+   <resource type="XMLResource" name="delius_hiawatha.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:38.684+01:00" modified="2018-09-25T13:46:38.684+01:00" filename="delius_hiawatha.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_hassan.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:38.454+01:00" modified="2018-09-25T13:46:38.454+01:00" filename="delius_hassan.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_suitedetroismorceaux.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:51.252+01:00" modified="2018-09-25T13:46:51.252+01:00" filename="delius_suitedetroismorceaux.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_funflieder.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:38.033+01:00" modified="2018-09-25T13:46:38.033+01:00" filename="delius_funflieder.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_sonatano1.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:49.439+01:00" modified="2018-09-25T13:46:49.439+01:00" filename="delius_sonatano1.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_folkeraadet.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:37.86+01:00" modified="2018-09-25T13:46:37.86+01:00" filename="delius_folkeraadet.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_florida.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:37.727+01:00" modified="2018-09-25T13:46:37.727+01:00" filename="delius_florida.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_fivepianopieces.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:37.618+01:00" modified="2018-09-25T13:46:37.618+01:00" filename="delius_fivepianopieces.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_sonatainb.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:49.276+01:00" modified="2018-09-25T13:46:49.276+01:00" filename="delius_sonatainb.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_fourelizabethanlyrics.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:37.958+01:00" modified="2018-09-25T13:46:37.958+01:00" filename="delius_fourelizabethanlyrics.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_fennimoregerda.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:37.417+01:00" modified="2018-09-25T13:46:37.417+01:00" filename="delius_fennimoregerda.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_spielleute.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:50.533+01:00" modified="2018-09-25T13:46:50.533+01:00" filename="delius_spielleute.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_fantasticdance.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:37.19+01:00" modified="2018-09-25T13:46:37.19+01:00" filename="delius_fantasticdance.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_sowhitesosoft.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:50.417+01:00" modified="2018-09-25T13:46:50.417+01:00" filename="delius_sowhitesosoft.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_eventyr.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:37.052+01:00" modified="2018-09-25T13:46:37.052+01:00" filename="delius_eventyr.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_doubleconc.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:36.928+01:00" modified="2018-09-25T13:46:36.928+01:00" filename="delius_doubleconc.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_deuxmelodies.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:36.833+01:00" modified="2018-09-25T13:46:36.833+01:00" filename="delius_deuxmelodies.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_derwandrerundseinschatten.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:36.749+01:00" modified="2018-09-25T13:46:36.749+01:00" filename="delius_derwandrerundseinschatten.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_songofthehighhills.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:50.015+01:00" modified="2018-09-25T13:46:50.015+01:00" filename="delius_songofthehighhills.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_derwandrer.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:36.659+01:00" modified="2018-09-25T13:46:36.659+01:00" filename="delius_derwandrer.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_derschlaf.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:36.59+01:00" modified="2018-09-25T13:46:36.59+01:00" filename="delius_derschlaf.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_songofsummer.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:49.824+01:00" modified="2018-09-25T13:46:49.824+01:00" filename="delius_songofsummer.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_dereinsame.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:36.495+01:00" modified="2018-09-25T13:46:36.495+01:00" filename="delius_dereinsame.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_twopiecessmallorch.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:54.702+01:00" modified="2018-09-25T13:46:54.702+01:00" filename="delius_twopiecessmallorch.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_dancerhapsody2.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:36.354+01:00" modified="2018-09-25T13:46:36.354+01:00" filename="delius_dancerhapsody2.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_stringquartet.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:51.099+01:00" modified="2018-09-25T13:46:51.099+01:00" filename="delius_stringquartet.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_violinconc.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:55.896+01:00" modified="2018-09-25T13:46:55.896+01:00" filename="delius_violinconc.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_dancerhapsody1.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:36.211+01:00" modified="2018-09-25T13:46:36.211+01:00" filename="delius_dancerhapsody1.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_tothequeen.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:54.381+01:00" modified="2018-09-25T13:46:54.381+01:00" filename="delius_tothequeen.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_springthesweetspring.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:50.774+01:00" modified="2018-09-25T13:46:50.774+01:00" filename="delius_springthesweetspring.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_danceforharpsichord.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:36.074+01:00" modified="2018-09-25T13:46:36.074+01:00" filename="delius_danceforharpsichord.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_wiegenlied.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:56.176+01:00" modified="2018-09-25T13:46:56.176+01:00" filename="delius_wiegenlied.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_wineroses.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:56.262+01:00" modified="2018-09-25T13:46:56.262+01:00" filename="delius_wineroses.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_cynara.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:35.584+01:00" modified="2018-09-25T13:46:35.584+01:00" filename="delius_cynara.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_chansondautomne.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:35.124+01:00" modified="2018-09-25T13:46:35.124+01:00" filename="delius_chansondautomne.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_littlebirdie.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:42.369+01:00" modified="2018-09-25T13:46:42.369+01:00" filename="delius_littlebirdie.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_celloconc.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:34.638+01:00" modified="2018-09-25T13:46:34.638+01:00" filename="delius_celloconc.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_irmelinrose.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:40.133+01:00" modified="2018-09-25T13:46:40.133+01:00" filename="delius_irmelinrose.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_songsofsunset.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:50.333+01:00" modified="2018-09-25T13:46:50.333+01:00" filename="delius_songsofsunset.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_springmorning.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:50.715+01:00" modified="2018-09-25T13:46:50.715+01:00" filename="delius_springmorning.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_capriceelegy.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:33.839+01:00" modified="2018-09-25T13:46:33.839+01:00" filename="delius_capriceelegy.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_throughlonglongyears.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:53.592+01:00" modified="2018-09-25T13:46:53.592+01:00" filename="delius_throughlonglongyears.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_briggfair.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:33.47+01:00" modified="2018-09-25T13:46:33.47+01:00" filename="delius_briggfair.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_songsoffarewell.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:50.179+01:00" modified="2018-09-25T13:46:50.179+01:00" filename="delius_songsoffarewell.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_beimsonnenuntergang.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:32.835+01:00" modified="2018-09-25T13:46:32.835+01:00" filename="delius_beimsonnenuntergang.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_avantque.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:32.651+01:00" modified="2018-09-25T13:46:32.651+01:00" filename="delius_avantque.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_autumn.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:32.313+01:00" modified="2018-09-25T13:46:32.313+01:00" filename="delius_autumn.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_threesongsshelley.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:53.254+01:00" modified="2018-09-25T13:46:53.254+01:00" filename="delius_threesongsshelley.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_aufderreise.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:32.085+01:00" modified="2018-09-25T13:46:32.085+01:00" filename="delius_aufderreise.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_villageromeojuliet.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:55.74+01:00" modified="2018-09-25T13:46:55.74+01:00" filename="delius_villageromeojuliet.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_asongbeforesunrise.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:31.868+01:00" modified="2018-09-25T13:46:31.868+01:00" filename="delius_asongbeforesunrise.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_appalachia1902.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:31.643+01:00" modified="2018-09-25T13:46:31.643+01:00" filename="delius_appalachia1902.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_sonatano3.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:49.708+01:00" modified="2018-09-25T13:46:49.708+01:00" filename="delius_sonatano3.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_anarabesque.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:31.135+01:00" modified="2018-09-25T13:46:31.135+01:00" filename="delius_anarabesque.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_amschonstensommerabend.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:30.64+01:00" modified="2018-09-25T13:46:30.64+01:00" filename="delius_amschonstensommerabend.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_amassoflife.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:30.478+01:00" modified="2018-09-25T13:46:30.478+01:00" filename="delius_amassoflife.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_alatelark.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:29.926+01:00" modified="2018-09-25T13:46:29.926+01:00" filename="delius_alatelark.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_sonatano2.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:49.573+01:00" modified="2018-09-25T13:46:49.573+01:00" filename="delius_sonatano2.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_abendstimmung.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:29.346+01:00" modified="2018-09-25T13:46:29.346+01:00" filename="delius_abendstimmung.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_3symphonischedichtungen.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:29.151+01:00" modified="2018-09-25T13:46:29.151+01:00" filename="delius_3symphonischedichtungen.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_sonatacello.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:49.166+01:00" modified="2018-09-25T13:46:49.166+01:00" filename="delius_sonatacello.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_summernight.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:51.582+01:00" modified="2018-09-25T13:46:51.582+01:00" filename="delius_summernight.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_singsing.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:49.067+01:00" modified="2018-09-25T13:46:49.067+01:00" filename="delius_singsing.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_silkenshoes.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:48.97+01:00" modified="2018-09-25T13:46:48.97+01:00" filename="delius_silkenshoes.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_siebenlieder.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:48.815+01:00" modified="2018-09-25T13:46:48.815+01:00" filename="delius_siebenlieder.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_summerevening.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:51.484+01:00" modified="2018-09-25T13:46:51.484+01:00" filename="delius_summerevening.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_wandererssong.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:56.095+01:00" modified="2018-09-25T13:46:56.095+01:00" filename="delius_wandererssong.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_suiteviolinorchestra.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:51.377+01:00" modified="2018-09-25T13:46:51.377+01:00" filename="delius_suiteviolinorchestra.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_sevendanishsongs.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:48.268+01:00" modified="2018-09-25T13:46:48.268+01:00" filename="delius_sevendanishsongs.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_winternight.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:56.366+01:00" modified="2018-09-25T13:46:56.366+01:00" filename="delius_winternight.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_sehnsucht.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:47.949+01:00" modified="2018-09-25T13:46:47.949+01:00" filename="delius_sehnsucht.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_zumcarnivalpolka.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:56.481+01:00" modified="2018-09-25T13:46:56.481+01:00" filename="delius_zumcarnivalpolka.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_seadrift.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:47.88+01:00" modified="2018-09-25T13:46:47.88+01:00" filename="delius_seadrift.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_schwarzerosen.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:47.779+01:00" modified="2018-09-25T13:46:47.779+01:00" filename="delius_schwarzerosen.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_scherzo.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:47.639+01:00" modified="2018-09-25T13:46:47.639+01:00" filename="delius_scherzo.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_sakuntala.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:47.531+01:00" modified="2018-09-25T13:46:47.531+01:00" filename="delius_sakuntala.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_romancecello.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:47.435+01:00" modified="2018-09-25T13:46:47.435+01:00" filename="delius_romancecello.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_requiem.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:47.332+01:00" modified="2018-09-25T13:46:47.332+01:00" filename="delius_requiem.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_preludeidyll.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:47.228+01:00" modified="2018-09-25T13:46:47.228+01:00" filename="delius_preludeidyll.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_poemoflifeandlove.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:47.136+01:00" modified="2018-09-25T13:46:47.136+01:00" filename="delius_poemoflifeandlove.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_pianoconc.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:47.026+01:00" modified="2018-09-25T13:46:47.026+01:00" filename="delius_pianoconc.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_petitesuite.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:46.897+01:00" modified="2018-09-25T13:46:46.897+01:00" filename="delius_petitesuite.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_paris.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:46.777+01:00" modified="2018-09-25T13:46:46.777+01:00" filename="delius_paris.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_paaviddernesymphpoem.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:46.566+01:00" modified="2018-09-25T13:46:46.566+01:00" filename="delius_paaviddernesymphpoem.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_paaviddernemelodrama.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:46.349+01:00" modified="2018-09-25T13:46:46.349+01:00" filename="delius_paaviddernemelodrama.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_overthehills.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:46.235+01:00" modified="2018-09-25T13:46:46.235+01:00" filename="delius_overthehills.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_oschnellermeinross.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:46.119+01:00" modified="2018-09-25T13:46:46.119+01:00" filename="delius_oschnellermeinross.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_marchecaprice.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:43.591+01:00" modified="2018-09-25T13:46:43.591+01:00" filename="delius_marchecaprice.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_onhearingfirstcuckoo.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:46.023+01:00" modified="2018-09-25T13:46:46.023+01:00" filename="delius_onhearingfirstcuckoo.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_maud.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:44.15+01:00" modified="2018-09-25T13:46:44.15+01:00" filename="delius_maud.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_magicfountain.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:43.347+01:00" modified="2018-09-25T13:46:43.347+01:00" filename="delius_magicfountain.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_lysenaetter.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:43.092+01:00" modified="2018-09-25T13:46:43.092+01:00" filename="delius_lysenaetter.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_thestreamlets.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:52.241+01:00" modified="2018-09-25T13:46:52.241+01:00" filename="delius_thestreamlets.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_nachneuenmeeren.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:45.137+01:00" modified="2018-09-25T13:46:45.137+01:00" filename="delius_nachneuenmeeren.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_margotlarouge.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:43.868+01:00" modified="2018-09-25T13:46:43.868+01:00" filename="delius_margotlarouge.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_vogelweise.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:56.031+01:00" modified="2018-09-25T13:46:56.031+01:00" filename="delius_vogelweise.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_liedernachnietzsche.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:42.064+01:00" modified="2018-09-25T13:46:42.064+01:00" filename="delius_liedernachnietzsche.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_letspringtimecome.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:41.522+01:00" modified="2018-09-25T13:46:41.522+01:00" filename="delius_letspringtimecome.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_legende.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:41.371+01:00" modified="2018-09-25T13:46:41.371+01:00" filename="delius_legende.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_oncraigddu.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:45.916+01:00" modified="2018-09-25T13:46:45.916+01:00" filename="delius_oncraigddu.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_leciel.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:41.211+01:00" modified="2018-09-25T13:46:41.211+01:00" filename="delius_leciel.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_lovesphilosophy.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:42.743+01:00" modified="2018-09-25T13:46:42.743+01:00" filename="delius_lovesphilosophy.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_lebenstanz.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:41.099+01:00" modified="2018-09-25T13:46:41.099+01:00" filename="delius_lebenstanz.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_laquadroone.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:40.935+01:00" modified="2018-09-25T13:46:40.935+01:00" filename="delius_laquadroone.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_mitternachtslied.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:44.835+01:00" modified="2018-09-25T13:46:44.835+01:00" filename="delius_mitternachtslied.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_laluneblanche.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:40.799+01:00" modified="2018-09-25T13:46:40.799+01:00" filename="delius_laluneblanche.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_verborgneliebe.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:55.181+01:00" modified="2018-09-25T13:46:55.181+01:00" filename="delius_verborgneliebe.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_koanga.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:40.636+01:00" modified="2018-09-25T13:46:40.636+01:00" filename="delius_koanga.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_twosongsforchildren.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:54.882+01:00" modified="2018-09-25T13:46:54.882+01:00" filename="delius_twosongsforchildren.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_kleinevenevil.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:40.356+01:00" modified="2018-09-25T13:46:40.356+01:00" filename="delius_kleinevenevil.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_itwasalover.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:40.244+01:00" modified="2018-09-25T13:46:40.244+01:00" filename="delius_itwasalover.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_todaffodils.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:54.066+01:00" modified="2018-09-25T13:46:54.066+01:00" filename="delius_todaffodils.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_tobesung.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:53.885+01:00" modified="2018-09-25T13:46:53.885+01:00" filename="delius_tobesung.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_appalachia1896.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:31.347+01:00" modified="2018-09-25T13:46:31.347+01:00" filename="delius_appalachia1896.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_northcountrysketches.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:45.643+01:00" modified="2018-09-25T13:46:45.643+01:00" filename="delius_northcountrysketches.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_irmelinprelude.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:39.984+01:00" modified="2018-09-25T13:46:39.984+01:00" filename="delius_irmelinprelude.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_threepreludes.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:52.913+01:00" modified="2018-09-25T13:46:52.913+01:00" filename="delius_threepreludes.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_irmelin.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:39.641+01:00" modified="2018-09-25T13:46:39.641+01:00" filename="delius_irmelin.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_theviolet.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:52.481+01:00" modified="2018-09-25T13:46:52.481+01:00" filename="delius_theviolet.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_intheseragliogarden.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:39.431+01:00" modified="2018-09-25T13:46:39.431+01:00" filename="delius_intheseragliogarden.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_indianlovesong.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:39.316+01:00" modified="2018-09-25T13:46:39.316+01:00" filename="delius_indianlovesong.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_thesplendour.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:52.012+01:00" modified="2018-09-25T13:46:52.012+01:00" filename="delius_thesplendour.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_ilpleure.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:39.211+01:00" modified="2018-09-25T13:46:39.211+01:00" filename="delius_ilpleure.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_thenightingale.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:51.818+01:00" modified="2018-09-25T13:46:51.818+01:00" filename="delius_thenightingale.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_idylledeprintemps.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:39.124+01:00" modified="2018-09-25T13:46:39.124+01:00" filename="delius_idylledeprintemps.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_summernights.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:51.674+01:00" modified="2018-09-25T13:46:51.674+01:00" filename="delius_summernights.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_ibrasil.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:39.024+01:00" modified="2018-09-25T13:46:39.024+01:00" filename="delius_ibrasil.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_midsummersong.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:44.501+01:00" modified="2018-09-25T13:46:44.501+01:00" filename="delius_midsummersong.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_IASG.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:38.831+01:00" modified="2018-09-25T13:46:38.831+01:00" filename="delius_IASG.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+   <resource type="XMLResource" name="delius_airanddance.xml" skip="no" owner="admin" group="dba" mode="644" created="2018-09-25T13:46:29.612+01:00" modified="2018-09-25T13:46:29.612+01:00" filename="delius_airanddance.xml" mimetype="application/xml">
+      <acl entries="0" version="1"/>
+   </resource>
+</collection>
