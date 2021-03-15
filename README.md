@@ -12,4 +12,13 @@ This repository contains the extra files needed to publish a working MerMEId ins
   1. Copy letsencrypt certificates into `/etc/letsencrypt`
   1. Create `systemd` process for running Docker on startup
 
-   
+## Credits:
+
+Catalogue data created and edited by **Joanna Bullivant** and **Daniel Grimley**
+
+Incipits by **Timothy Coombes**, **Alexander Ho** and **Joanna Bullivant**
+
+Web development by David Lewis
+
+Thanks to: The British Library, the Delius Trust, the Danish Centre for Music Editing, the Oxford E-Research Centre, Helen Faulkner, Kevin Page, Andrew Hankinson, Daniel Hulme, Mario Baptiste, Amelie Roper, Richard Chesser, Axel Teich Geertinger, Sigfrid Lundberg, Peter Stadler, Omar Siam, Zsofia Abraham, Daniel Schopper, Clemens Gubsch
+
