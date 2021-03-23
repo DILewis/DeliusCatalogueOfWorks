@@ -5,7 +5,7 @@ This repository contains the extra files needed to publish a working MerMEId ins
 
   1. Create and run the **Docker** instance
      1. Copy `project` folder into the MerMEId directory
-     1. Either overwrite MerMEId's `jetty-exist-additional-config/etc/webapp/WEBING/controller-config.xml` with the copy in `config-files` before installation, or copy the modified file directly into the built image
+     1. Either overwrite MerMEId's `jetty-exist-additional-config/etc/webapp/WEB-INF/controller-config.xml` with the copy in `config-files` before installation, or copy the modified file directly into the built image
      1. Build the image (`docker build --tag dcw .`)
      1. Run the image (`docker run -d -p 6379:6379 -p 8080:8080 --name DCW dcw`) 
 
