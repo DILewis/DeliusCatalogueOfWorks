@@ -51,6 +51,7 @@
   <root pattern="/catalogue/about.html" path="xmldb:exist:///db/apps/mermeid/project/resources/page_xq/about.xq"/>	
   <root pattern="/catalogue/navigation.html" path="xmldb:exist:///db/apps/mermeid/project/resources/page_xq/navigation.xq"/>	
   <root pattern="/catalogue/introduction.html" path="xmldb:exist:///db/apps/mermeid/project/resources/page_xq/introduction.xq"/>	
+  <root pattern="/catalogue/download_xml.xq" path="xmldb:exist:///db/apps/mermeid/project/resources/page_xq/download_xml.xq"/>	
   <!-- 
     redirect all requests (not captured by the above controller rules) to the mermeid app.
   -->
