@@ -5,6 +5,7 @@ This readme has the following sections:
  * [Steps to install](#steps-to-install)
  * [What's in this repo, and why?](#whats-in-this-repo-and-why)
  * [Overriding MerMEId XSLT](#overriding-mermeid-xslt)
+ * [Keeping database files and customisations between MerMEId updates](#keeping-database-files-and-customisations-between-MerMEId-updates)
  * [Credits](#credits)
 
 More details of the process of migrating from an old (Copenhagen, MEI 3) MerMEId to the new (Paderborn, MEI 4) one can be found in [this article](https://github.com/Edirom/MerMEId/wiki/Migrating-from-old-(kb-dk)-MerMEId-install-to-the-2021-dev-branch) on that repo's wiki. Some future work ideas are also in the Issue Tracker here.
@@ -49,6 +50,15 @@ Most of this functionality is provided by core MerMEID in `/db/apps/mermeid/styl
 Since the structure of the MEI header has changed in several important ways since previous versions of MerMEId, the xslt has had to be updated. Further work on this would be useful with two purposes:
  * **Testing**. The current XSLT seems to work on the Delius data, but it has not been substantially tested against other catalogue data
  * **Trimming**. The ideal would be for this file to be as small as possible, so that it tracks the main MerMEId closely, with the minimum of extra effort. To do this, a review of what is in here against what is in `mei_to_html.xsl` would be helpful and would probably shorten the file.
+
+## Keeping database files and customisations between MerMEId updates
+
+MerMEId now supports a separate directory (outside the docker container) that contains the eXist database on which the application is based. Updates to MerMEId would then not rewrite existing catalogue data. This functionality _can_ be used in the following way for DCW:
+ 1. Extract the database data from an existing container (in our case, `podman cp DCW:/exist/data database` (where `database` is the directory to put the database into.
+ 2. Get the latest image (`docker pull edirom/mermeid:develop-java11-ShenGC` at the time of writing)
+ 3. Run docker or podman with the database directory mounted (`docker run --name DCW-persist -p 8080:8080 -d --mount type=bind,source="$(pwd)/database",target=/exist/data edirom/mermeid:develop` is the command this was tested with)
+ 4. Extend httpd configuration to do some url rewriting (currently some path and extension remapping is done by a bespoke `controller-config.xml`, but this is overwritten in the new approach – this means that top-level paths will need to be passed to `/db/project` type paths, and `html` to `xq` in some contexts.
+
 
 ## Credits:
 
