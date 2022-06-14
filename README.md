@@ -59,6 +59,7 @@ MerMEId now supports a separate directory (outside the docker container) that co
  3. Run docker or podman with the database directory mounted (`docker run --name DCW-persist -p 8080:8080 -d --mount type=bind,source="$(pwd)/database",target=/exist/data edirom/mermeid:develop` is the command this was tested with)
  4. Extend httpd configuration to do some url rewriting (currently some path and extension remapping is done by a bespoke `controller-config.xml`, but this is overwritten in the new approach – this means that top-level paths will need to be passed to `/db/project` type paths, and `html` to `xq` in some contexts.
 
+It should be the case then that subsequent updates can just be standard pulls of new images. Our bespoke XSLTs survive the process, although they may not be compatible with future updates.
 
 ## Credits:
 
